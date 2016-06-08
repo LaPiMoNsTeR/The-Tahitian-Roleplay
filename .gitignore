@@ -1,4 +1,5 @@
 filterscripts/
+gamemodes/roleplay.amx
 include/
 npcmodes/
 pawno/include/database/connection.inc
@@ -9,6 +10,7 @@ pawno/pawnc.dll
 pawno/pawncc.exe
 pawno/pawno.exe
 pawno/settings.ini
+scriptfiles/
 announce.exe
 mysql_log.txt
 samp-license.txt
