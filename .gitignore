@@ -1,32 +1,18 @@
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
+filterscripts/
+include/
+npcmodes/
+pawno/include/database/connection.inc
+pawno/libpawnc.dll
+pawno/new.pwn
+pawno/pawn.ico
+pawno/pawnc.dll
+pawno/pawncc.exe
+pawno/pawno.exe
+pawno/settings.ini
+announce.exe
+mysql_log.txt
+samp-license.txt
+samp-npc.exe
+samp-server.exe
+server_log.txt
+server-readme.txt
